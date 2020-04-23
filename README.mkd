@@ -1,1 +1,1 @@
-This is our group task using for practice kit of git 
+This is our group task using for practicing the kits of git 
